@@ -143,7 +143,7 @@ adopted as quickly for consistency and compatibility reasons.
 
 ### Networking
 
-* Disable hostname lookup to speed up check if chain chain exists [docker/libnetwork#1974](https://github.com/docker/libnetwork/pull/1974)
+* Disable hostname lookup to speed up check if chain exists [docker/libnetwork#1974](https://github.com/docker/libnetwork/pull/1974)
 * Handle cleanup DNS for attachable container to prevent leak in name resolution [docker/libnetwork#1989](https://github.com/docker/libnetwork/pull/1989)
 
 ### Packaging
